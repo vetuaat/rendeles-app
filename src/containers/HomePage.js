@@ -1,11 +1,5 @@
 import React from 'react';
-import Icon from 'material-ui/Icon';
 
-const HomePage = () => (
-  <div>
-    'Hello Rendelés app'
-    <Icon>alarm</Icon>
-  </div>
-);
+const HomePage = () => <div>'Hello Rendelés app'</div>;
 
 export default HomePage;
